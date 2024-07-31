@@ -1,0 +1,20 @@
+.container {
+  max-width: 80vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+}
+
+button {
+  width: fit-content;
+  padding: 0.5rem 1rem;
+  box-shadow: 2px 2px 4px #8f8d8d;
+  font-size: 20px;
+  color: gray;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
